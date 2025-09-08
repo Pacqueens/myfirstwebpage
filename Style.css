@@ -14,7 +14,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 4.8rem;
-    background-color: orangered;
+    background-color: #f97602;
     position: fixed;
     width: 100%;
     top: 0;
@@ -42,7 +42,7 @@ nav ul li a:hover {
 
 .menu>button {
     background-color: white;
-    color: orangered;
+    color: #f97602;
     border: none;
     padding: 0.5rem 1rem;
     font-weight: bold;
@@ -82,7 +82,7 @@ nav ul li a:hover {
     border: none;
     padding: 0.8rem 1rem;
     font-weight: bold;
-    background-color: orangered;
+    background-color: #f97602;
     cursor: pointer;
     border-radius: 5px;
     color: white;
@@ -104,7 +104,7 @@ nav ul li a:hover {
 
 .child-item h1 {
     font-size: 5rem;
-    color: orangered;
+    color: #f97602;
 }
 
 .child-item p {
@@ -114,7 +114,9 @@ nav ul li a:hover {
 
 .image-item {
   margin-left:8rem;
+  /* position: relative; */
 }
+
 
 .flex-container1 {
     display: flex;
@@ -123,7 +125,7 @@ nav ul li a:hover {
 }
 
 .card {
-    border: 3px solid orangered;
+    border: 3px solid #f97602;
     margin: 1rem;
     width: 20%;
     padding: 1rem;
@@ -137,7 +139,7 @@ nav ul li a:hover {
 
 .card>h1 {
     text-align: center;
-    color: orangered;
+    color: #f97602;
     font-size: 2rem;
 }
 
@@ -163,7 +165,7 @@ section {
 .focal-sector-header {
     text-align: center;
     font-size: 2rem;
-    color: orangered;
+    color: #f97602;
     font-weight: bold;
     margin: 2rem 3rem;
 
@@ -196,7 +198,7 @@ section {
 
 .child-item2 h1 {
     font-size: 5rem;
-    color: orangered;
+    color: #f97602;
 }
 
 .child-item2 p {
